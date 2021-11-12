@@ -54,7 +54,7 @@ if __name__ == '__main__':
 
     import cdsapi
     import xarray as xr
-    c = cdsapi.Client(key=109618:d8f6e7ca-93b9-4d8c-9c9f-ea1b83d81f1b, url="https://cds.climate.copernicus.eu/api/v2")
+    c = cdsapi.Client(key="109618:d8f6e7ca-93b9-4d8c-9c9f-ea1b83d81f1b", url="https://cds.climate.copernicus.eu/api/v2")
 
     years=[]
     for year in range(from_year, to_year+1):
