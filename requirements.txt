@@ -7,3 +7,4 @@ mplleaflet==0.0.5
 scipy==1.6.2
 geojsoncontour==0.4.0
 geojson==2.5.0
+streamlit_folium==0.4.0
