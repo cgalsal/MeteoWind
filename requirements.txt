@@ -4,3 +4,4 @@ xarray==0.20.1
 matplotlib==3.3.4
 folium==0.12.1
 mplleaflet==0.0.5
+scipy==1.6.2
